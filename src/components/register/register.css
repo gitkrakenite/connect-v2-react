@@ -1,0 +1,8 @@
+.register-btn {
+  font-size: 20px;
+}
+
+.register-btn:hover {
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
